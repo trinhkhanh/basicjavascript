@@ -7,6 +7,5 @@
     * git commit -m "First time commit"
     * git remote add origin https://github.com/trinhkhanh/basicjavascript.git
     * git push -u origin master
-
 5. Demo how to manage source code in WebStorm
 
