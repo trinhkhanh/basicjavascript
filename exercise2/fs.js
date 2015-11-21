@@ -6,7 +6,7 @@ var fs = require('fs');
 
 var name = 'index.html';
 
-
+// Checking file index.html which has in folder exercise2 with path: /home/khanh/demojavascript/exercise2/ or not
 fs.readdir('/home/khanh/demojavascript/exercise2/' , function (err,listFiles){
 
 	console.log('Cac thu muc exercise2 gom: ' + listFiles);
